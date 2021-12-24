@@ -1,0 +1,1 @@
+(this["webpackJsonp@scaffold-eth/react-app"]=this["webpackJsonp@scaffold-eth/react-app"]||[]).push([[5],{1138:function(s,p){s.exports={messages:{}}}}]);
